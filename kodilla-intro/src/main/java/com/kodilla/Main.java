@@ -15,5 +15,14 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
+        Grades grades = new Grades();
+        grades.add(5);
+        grades.add(3);
+        grades.add(2);
+        grades.add(4);
+        int last = grades.getLastGrade();
+        System.out.println(last);
+        double avg = grades.getAvg();
+        System.out.println(avg);
     }
 }

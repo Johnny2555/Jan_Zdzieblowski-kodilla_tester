@@ -13,15 +13,6 @@ public class MainExtended {
         System.out.println(carClass);
         System.out.println(isGoodProgrammer);
     }
-
-    public static class FirstClass {
-        public static void main(String[] args) {
-            System.out.println("Hello from com.kodilla.MainExtended.FirstClass!");
-
-            if (1 > 2){
-                System.out.println("Niesamowite! Jeden jest większe niż dwa!!!");
-            }
-        }
-    }
 }
+
 

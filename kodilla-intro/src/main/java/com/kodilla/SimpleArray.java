@@ -8,7 +8,7 @@ public class SimpleArray {
             movies[2] = "Forrest Gump";
             movies[3] = "Harry Potter";
             movies[4] = "Lord of the Rings";
-            String movie = movies[4];
+            String movie = movies[2];
             System.out.println(movie);
             int numberOfElements = movies.length;
             System.out.println(numberOfElements);
