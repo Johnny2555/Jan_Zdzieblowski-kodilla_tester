@@ -2,16 +2,15 @@ package com.kodilla;
 
 public class SimpleArray {
         public static void main(String[] args) {
-            String[] movies = new String[5];
-            movies[0] = "Harry";
-            movies[1] = "Lord";
-            movies[2] = "Forrest Gump";
-            movies[3] = "Harry Potter";
-            movies[4] = "Lord of the Rings";
+            String[] movies =new String[]{"Harry Poter","Terminator","Forest Gump"};
             String movie = movies[2];
             System.out.println(movie);
-            int numberOfElements = movies.length;
-            System.out.println(numberOfElements);
+            int numebrofElements = movies.length;
+            System.out.println("Moja tablica zawiera:"+ numebrofElements + " elementy");
+            String[] names = new String[]{"John","Anna","Peter"};
+            for(int i=names.length-1;i>=0;i--){
+                System.out.println(names[i]);
+            }
         }
     }
 
