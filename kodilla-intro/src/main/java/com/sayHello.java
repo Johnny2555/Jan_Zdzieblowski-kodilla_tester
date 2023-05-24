@@ -1,4 +1,4 @@
-package com.kodilla;
+package com;
 
 public class sayHello {
     private static String sayHello(){
