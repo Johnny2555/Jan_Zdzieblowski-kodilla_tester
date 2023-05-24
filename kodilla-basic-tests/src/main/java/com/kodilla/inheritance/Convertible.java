@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.kodilla.inheritance;
 
 public class Convertible extends Car {
@@ -18,4 +19,7 @@ public class Convertible extends Car {
 
 
 
+=======
+package com.kodilla.inheritance;public class Convertible {
+>>>>>>> 85cc96a00b20f81f2f88698e5d93d772ddd3c3d7
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.kodilla.inheritance;
 
 public class Car {
@@ -26,4 +27,7 @@ public class Car {
         System.out.println("Opening 4 doors");
     }
 
+=======
+package com.kodilla.inheritance;public class Car {
+>>>>>>> 85cc96a00b20f81f2f88698e5d93d772ddd3c3d7
 }
