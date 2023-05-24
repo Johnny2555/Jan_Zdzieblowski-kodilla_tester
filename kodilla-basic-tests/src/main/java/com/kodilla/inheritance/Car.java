@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
 package com.kodilla.inheritance;
 
 public class Car {
     private int wheels;
     private int seats;
-    public Car(int wheels, int seats){
+
+    public Car(int wheels, int seats) {
         this.wheels = wheels;
         this.seats = seats;
     }
@@ -16,18 +17,19 @@ public class Car {
     public int getSeats() {
         return seats;
     }
-    public void displayNumberofSeats(){
+
+    public void displayNumberofSeats() {
         System.out.println("Number of seats: " + seats);
     }
 
-    public void turnOnLights(){
+    public void turnOnLights() {
         System.out.println("Lights were turned on");
     }
-    public void openDoors(){
+
+    public void openDoors() {
         System.out.println("Opening 4 doors");
     }
 
-=======
-package com.kodilla.inheritance;public class Car {
->>>>>>> 85cc96a00b20f81f2f88698e5d93d772ddd3c3d7
 }
+
+
