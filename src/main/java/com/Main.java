@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-package com;
-=======
+
 package com.kodilla;
->>>>>>> 85cc96a00b20f81f2f88698e5d93d772ddd3c3d7
+
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
