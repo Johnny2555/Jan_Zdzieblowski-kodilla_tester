@@ -19,4 +19,6 @@ public class Triangle implements  Shape{
     public double gerPerimeter() {
         return width + height +hypotenuse;
     }
+
+
 }

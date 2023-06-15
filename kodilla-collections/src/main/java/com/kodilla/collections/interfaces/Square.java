@@ -1,6 +1,6 @@
 package com.kodilla.collections.interfaces;
 
- class Square implements Shape {
+ public class Square implements Shape {
     private double width;
 
     public Square(double width) {
@@ -15,5 +15,6 @@ package com.kodilla.collections.interfaces;
      public double gerPerimeter() {
          return 4 * width;
      }
+
 
  }
