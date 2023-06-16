@@ -14,7 +14,7 @@ public class InterfacesDemo {
 
     private static void showShapeDetails(Shape shape) {
         System.out.println(shape.getArea());
-        System.out.println(shape.gerPerimeter());
+        System.out.println(shape.getPerimeter());
     }
 
 }
