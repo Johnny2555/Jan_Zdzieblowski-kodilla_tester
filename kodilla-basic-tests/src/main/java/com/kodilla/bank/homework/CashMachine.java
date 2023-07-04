@@ -56,11 +56,11 @@ public class CashMachine {
         }
         return payment;
     }
-    public int getAveragePaycheck(){
-        int average = 0;
-        for (int i=0; i<getPaycheck())
+    //public int getAveragePaycheck() {
+      //  int average = 0;
+       // for (int i=0; i<getPaycheck())
+    //}
+   // public int getNumberofTransaction() {
+     //   return size;
     }
-    public int getNumberofTransaction() {
-        return size;
-    }
-}
+
